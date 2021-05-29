@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-startando-o-projeto">Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desktop_computerdesenvolvimento">Desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -46,7 +46,6 @@ Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num di
 ```shell
 cd "diretorio de sua preferencia"
 git clone https://github.com/Joel-Irineu/modelo-readme.git
-```
 ```
 
 ## :memo: Licença
