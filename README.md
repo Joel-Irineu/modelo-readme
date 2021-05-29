@@ -9,6 +9,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-startando-o-projeto">Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -38,9 +39,15 @@ Aqui você fala um pouco sobre o projeto, quais os objetivos, quais problemas el
 
 O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro
 
-## 💻 Startando o projeto
+## :desktop_computer:	Desenvolvimento
 
-Aqui você fala um pouco sobre o projeto, quais os objetivos, quais problemas ele visa solucionar, quais motivações os levou a inicia-lo, etc...
+Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:
+
+```shell
+cd "diretorio de sua preferencia"
+git clone https://github.com/Joel-Irineu/modelo-readme.git
+```
+```
 
 ## :memo: Licença
 
