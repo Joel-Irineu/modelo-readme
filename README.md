@@ -21,7 +21,7 @@
 
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias, antes de iniciar o desenvolvimento e clonar o projeto, é necessario que verifique que todas as tecnologias utilizadas estejam instaladas em sua maquina:
 
 - [HTML 5](https://www.w3schools.com/html/)
 - [CSS 3](https://www.w3schools.com/css/)
